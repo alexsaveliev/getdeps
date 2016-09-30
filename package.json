@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "name": "getdeps",
+  "dependencies": {
+    "github-url-from-git": "^1.4.0",
+    "github-url-from-username-repo": "^1.0.2",
+    "npm": "^3.10.8",
+    "async": "^2.0.1",
+    "semver": "^5.3.0"
+
+  }
+}

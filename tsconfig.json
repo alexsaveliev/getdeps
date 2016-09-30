@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es6",
+        "noImplicitAny": false,
+        "sourceMap": true
+    },
+    "files": [
+    	"src/getdeps.ts"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}
